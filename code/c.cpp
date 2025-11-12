@@ -28,7 +28,7 @@ void solve(){
     }
 }
 
-void solve2(){
+void solve1(){
     // 冒泡排序
     int n;
     cin >> n;
